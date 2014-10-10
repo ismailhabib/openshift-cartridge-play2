@@ -18,7 +18,7 @@ Note that it takes about 5 minutes to create the application since it will downl
 
 ### command line (rhc)
 
-```rhc app create  myappForPlay  http://cartreflect-claytondev.rhcloud.com/reflect?github=tyrcho/openshift-cartridge-play2```
+```rhc app create  myappForPlay  http://cartreflect-claytondev.rhcloud.com/reflect?github=ismailhabib/openshift-cartridge-play2```
 
 You might need to increase the timeout to let it the time to download the activator and build the application the first time.
 
