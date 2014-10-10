@@ -2,7 +2,9 @@
 
 # OpenShift Play Framework Cartridge
 
-Works with Play 2.3 and Activator : http://www.playframework.com/
+Works with Play 2.3 and Activator : http://www.playframework.com/.
+
+This project is a fork of https://github.com/tyrcho/openshift-cartridge-play2 and uses Java instead of Scala.
 
 ## Use it
 
@@ -10,7 +12,7 @@ Note : now works with small OpenShift gears, the build script will use no more t
 
 ### From the web site
 
-In OpenShift, choose a downloaded cartridge, with the following URL : http://cartreflect-claytondev.rhcloud.com/reflect?github=tyrcho/openshift-cartridge-play2
+In OpenShift, choose a downloaded cartridge, with the following URL : http://cartreflect-claytondev.rhcloud.com/reflect?github=ismailhabib/openshift-cartridge-play2
 
 Note that it takes about 5 minutes to create the application since it will download the activator from typesafe and the initial build of the sample application takes a few minutes, depending on the load of the server.
 
